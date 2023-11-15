@@ -1,1 +1,1 @@
-# TBOX_project
+# 영화 TicketBox 프로그램
